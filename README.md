@@ -1,15 +1,15 @@
-# Here is an Rstudio school project 
-#Building regression model to attempt to explain prices of the house.
-#The steps in the Part 1 are the following:
-#Predict the house price in thousands of dollars using the given features/ variables
-#•	Loading and studying the dataset
-##•	Conducting exploratory data analysis for the variables
-#•	Perform a correlation analysis between variables. 
-#•	Visualizing the correlation for the variables to identify which pairs of variables are correlated 
-#•	Implement linear regression with all variables and intercept to estimate the coefficients of the model defined in the previous task to predict the prices of #the house.
-#•	Improve model
-#•	Plot of the original vs. the fitted values
-#•	Findings and results.
+Here is an Rstudio school project 
+Building regression model to attempt to explain prices of the house.
+The steps in the Part 1 are the following:
+Predict the house price in thousands of dollars using the given features/ variables
+•	Loading and studying the dataset
+•	Conducting exploratory data analysis for the variables
+•	Perform a correlation analysis between variables. 
+•	Visualizing the correlation for the variables to identify which pairs of variables are correlated 
+•	Implement linear regression with all variables and intercept to estimate the coefficients of the model defined in the previous task to predict the prices of the house.
+•	Improve model
+•	Plot of the original vs. the fitted values
+•	Findings and results.
 
 Part 2
 Detect whether a given patient is healthy or suffers from hyperthyroidism or suffers from hypothyroidism
@@ -29,4 +29,3 @@ find similarities of different types of wine by grouping them via clustering.
 •	Use the optimal number of clusters for the clustering
 •	Evaluate results and performance of your model
 •	Detail results
-
